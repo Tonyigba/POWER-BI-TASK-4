@@ -37,3 +37,9 @@ Problem Statement:
 
 ![POWER BI TASK 4 TOTAL Balance by Job (Technician)](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/b5ef2ef8-9198-4abe-a126-d52c9594085f)
 
+
+# The screenshot below is showing Total Balance By Married and Single = CALCULATE(SUM('bank-full'[balance]), FILTER('bank-full','bank-full'[marital] ="Single" ||'bank-full'[marital]="Married"))
+
+![POWER BI TASK 4 Total Balance By Married and Single  2](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/44bdbd99-1194-4bc1-b335-5b902ccec5a7)
+
+![POWER BI TASK 4 Total Balance By Married and Single](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/ae04e396-d89c-4023-97d0-6527d012be18)
