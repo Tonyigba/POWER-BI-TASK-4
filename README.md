@@ -1,4 +1,4 @@
-# POWER-BI-TASK-4
+![image](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/d8d24ae4-391b-4080-915b-db15d6cf78d0)# POWER-BI-TASK-4
 
 # Introduction:
 
@@ -18,6 +18,8 @@ Problem Statement:
   Job: Technician
   Marital: Single and married
 4. Create a measure to get the number of depositors on loan
+
+# The screenshot showing 1. Average age of depositors = CALCULATE(AVERAGE('bank-full'[age]), FILTER('bank-full','bank-full'[loan]="YES"))
 
 ![POWER BI TASK 4 Average age of deposotors](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/51354438-e11b-406f-a70d-45b05110d089)
 
