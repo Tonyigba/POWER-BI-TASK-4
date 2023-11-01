@@ -1,4 +1,4 @@
-![image](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/d8d24ae4-391b-4080-915b-db15d6cf78d0)# POWER-BI-TASK-4
+# POWER-BI-TASK-4
 
 # Introduction:
 
@@ -24,3 +24,9 @@ Problem Statement:
 ![POWER BI TASK 4 Average age of deposotors](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/51354438-e11b-406f-a70d-45b05110d089)
 
 ![POWER BI TASK4](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/1313f57c-658a-434b-92a6-408120859340)
+
+
+# screehoot showing new column "Age Band" = IF('bank-full'[age]<30, "Young", IF('bank-full'[age]<=50, "Mid-Age", "Old"))
+
+![POWER BI TASK 4 AGE BAND](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/eed394d6-0267-4498-ba1c-5de14f4befa3)
+
