@@ -19,14 +19,21 @@ Problem Statement:
   Marital: Single and married
 4. Create a measure to get the number of depositors on loan
 
-# The screenshot showing 1. Average age of depositors = CALCULATE(AVERAGE('bank-full'[age]), FILTER('bank-full','bank-full'[loan]="YES"))
+# The screenshots below is showing 1. Average age of depositors = CALCULATE(AVERAGE('bank-full'[age]), FILTER('bank-full','bank-full'[loan]="YES"))
 
 ![POWER BI TASK 4 Average age of deposotors](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/51354438-e11b-406f-a70d-45b05110d089)
 
 ![POWER BI TASK4](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/1313f57c-658a-434b-92a6-408120859340)
 
 
-# screehoot showing new column "Age Band" = IF('bank-full'[age]<30, "Young", IF('bank-full'[age]<=50, "Mid-Age", "Old"))
+# screehoot Below is showing new column "Age Band" = IF('bank-full'[age]<30, "Young", IF('bank-full'[age]<=50, "Mid-Age", "Old"))
 
 ![POWER BI TASK 4 AGE BAND](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/eed394d6-0267-4498-ba1c-5de14f4befa3)
+
+
+# The screenshoat below is showing TOTAL Balance by Job (Technician) = CALCULATE(SUM('bank-full'[balance]), FILTER('bank-full','bank-full'[job]="Technician"))
+
+![POWER BI TASK 4 TOTAL Balance by Job (Technician) = CALCULATE(SUM('bank-full' balance )](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/14f46bf1-6364-4e68-9ea9-e36d169ea71c)
+
+![POWER BI TASK 4 TOTAL Balance by Job (Technician)](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/b5ef2ef8-9198-4abe-a126-d52c9594085f)
 
