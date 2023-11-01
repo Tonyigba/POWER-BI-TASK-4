@@ -31,7 +31,7 @@ Problem Statement:
 ![POWER BI TASK 4 AGE BAND](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/eed394d6-0267-4498-ba1c-5de14f4befa3)
 
 
-# The screenshoat below is showing TOTAL Balance by Job (Technician) = CALCULATE(SUM('bank-full'[balance]), FILTER('bank-full','bank-full'[job]="Technician"))
+# The screenshot below is showing TOTAL Balance by Job (Technician) = CALCULATE(SUM('bank-full'[balance]), FILTER('bank-full','bank-full'[job]="Technician"))
 
 ![POWER BI TASK 4 TOTAL Balance by Job (Technician) = CALCULATE(SUM('bank-full' balance )](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/14f46bf1-6364-4e68-9ea9-e36d169ea71c)
 
@@ -43,3 +43,11 @@ Problem Statement:
 ![POWER BI TASK 4 Total Balance By Married and Single  2](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/44bdbd99-1194-4bc1-b335-5b902ccec5a7)
 
 ![POWER BI TASK 4 Total Balance By Married and Single](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/ae04e396-d89c-4023-97d0-6527d012be18)
+
+
+# NUMBER OF DEPOSITOR ON LOAN = CALCULATE(COUNT('bank-full'[loan]),FILTER('bank-full', 'bank-full'[loan]="YES"))
+
+![POWER BI BASK 4 NUMBER OF DEPOSITOR ON LOAN](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/5df76705-fdac-427e-8664-1b0ef6b01a78)
+
+![POWER BI BASK 4 NUMBER OF DEPOSITOR ON LOAN  2](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/065dbda0-4c01-491a-9df6-51c2e4b5afe7)
+
