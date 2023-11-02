@@ -51,3 +51,15 @@ Problem Statement:
 
 ![POWER BI BASK 4 NUMBER OF DEPOSITOR ON LOAN  2](https://github.com/Tonyigba/POWER-BI-TASK-4/assets/143624967/065dbda0-4c01-491a-9df6-51c2e4b5afe7)
 
+
+# Conclusion:
+In this analysis, key insights using DAX functions and visualizations were explored.
+
+The average number of depositors on loans was determined using The DAX function. This shows that age is a critical factor in understanding the customer base.
+
+Next, depositors into age bands were categorized using the DAX function. This categorization into "Young," "Mid-Aged," and "Old" based on age ranges provide a clearer insight.
+
+Also, The total balance of individuals working as technicians and those with marital statuses of "Single" or "Married.” were determined. The 'Total Balance by Job (Technician)' and 'Total Balance by Married and Single' highlight the importance of occupation and marital status in financial profiles.
+
+Overall, this analysis shows the power of DAX functions and visualizations in extracting meaningful insights and informed decisions.
+
